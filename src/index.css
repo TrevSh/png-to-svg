@@ -1,0 +1,9 @@
+@import-normalize;
+
+img{
+    position: fixed;
+  inset: 0px;
+  max-width: 100vw;
+  max-height: 100dvh;
+  margin: auto;
+}
